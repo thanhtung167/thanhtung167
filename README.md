@@ -2,9 +2,9 @@
 
 I'm Thanh Tung 😪, a front-end developer
 
-My [🗂️blog](https://iamsee.top) is where I post my work-in-progress ideas, practice notes, and explorations in my free time
+My [🗂️blog](https://thanhtung167.vn) is where I post my work-in-progress ideas, practice notes, and explorations in my free time
 
-If you have any questions, comments, or want to bounce ideas and collaborate, feel free to 📨chen.dev@foxmail.com
+If you have any questions, comments, or want to bounce ideas and collaborate, feel free to 📨batung16799@gmail.com
 
 You can find me from here
 
