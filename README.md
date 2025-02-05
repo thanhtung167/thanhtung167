@@ -2,13 +2,13 @@
 
 I'm Thanh Tung 😪, a front-end developer
 
-My [🗂️blog](https://thanhtung167.vn) is where I post my work-in-progress ideas, practice notes, and explorations in my free time
+My [🗂️blog](https://thanhtung167.vercel.app/) is where I post my work-in-progress ideas, practice notes, and explorations in my free time
 
 If you have any questions, comments, or want to bounce ideas and collaborate, feel free to 📨batung16799@gmail.com
 
 You can find me from here
 
-- [My Blog](https://thanhtung167.vn)
+- [My Blog](https://thanhtung167.vercel.app/)
 - [Github](https://github.com/thanhtung167)
 
 
