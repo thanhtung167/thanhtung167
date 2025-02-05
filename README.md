@@ -16,8 +16,8 @@ You can find me from here
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=flat)
-![Unocss](https://img.shields.io/badge/Unocss-333333?logo=unocss&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Next](https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt&style=popout)
